@@ -1,5 +1,5 @@
 ## Hi, I'm Martin Wong 👋
-<p>I am a second year computer science student.</p>
+<p>I am a second year computer science student at SFU.</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Software+Engineer;Familiar+with%3A;Java%2C+C%2B%2B%2C+Python%2C+HTML%2C+CSS%2C+JS;ReactJS%2C+NodeJS%2C+MongoDB)](https://git.io/typing-svg)
 
