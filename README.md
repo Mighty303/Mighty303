@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi, I'm Martin Wong 👋
+<hr>
+<p>I am a second year computer science student.</p>
 
 <!--
 **Mighty303/Mighty303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
