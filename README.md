@@ -1,5 +1,4 @@
 ## Hi, I'm Martin Wong 👋
-<hr>
 <p>I am a second year computer science student.</p>
 
 <!--
