@@ -29,6 +29,6 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
 <h3>📈 Most Used Languages </h3>
-<img src="https://github-readme-stats.vercel.app/api?username=Mighty303&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mighty303&layout=compact"/>
 
 
