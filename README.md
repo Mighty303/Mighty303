@@ -4,7 +4,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Software+Engineer;Familiar+with%3A;Java%2C+C%2B%2B%2C+Python%2C+HTML%2C+CSS%2C+JS;ReactJS%2C+NodeJS%2C+MongoDB)](https://git.io/typing-svg) -->
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <hr>
 
 <p align="left"> 
@@ -29,7 +29,7 @@
 </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-
+<h3>📈 Most Used Languages </h3>
 <img src="https://github-readme-stats.vercel.app/api?username=Mighty303&show_icons=true&theme=dark"/>
 
 
