@@ -1,5 +1,5 @@
 ## Hi, I'm Martin 👋
-<p>CS @ SFU and Software Enginner Intern @ Eletronic Arts</p>
+<p>CS @ SFU and Software Enginner Intern @ Electronic Arts</p>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
