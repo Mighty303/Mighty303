@@ -1,28 +1,28 @@
-## Hi, I'm Martin 👋
-<p>CS @ SFU and Software Enginner Intern @ Electronic Arts</p>
+<!-- Make a masterhead -->
+<h1 align="center">Hi 👋, I'm Martin Wong</h1>
+<h4 align="center">Computer Science Student | Software Engineer | Mobile + Full Stack</h4>
+<img align="right" alt="CodingPfp" width="200" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif">
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mighty303&label=Profile%20views&color=4BC65E&style=for-the-badge" alt="martinwong" /> </p>
 
-<p align="left"> 
+- 🔍 I’m currently seeking 2026 summer internships
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+- ⬇️ Check my pinned projects below ⬇️
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mighty303&theme=dark"/> -->
+- 📫 How to reach me **martinwong303@gmail.com**. Ask me about **Cloud/Devops, Software Architecture, anything code related!**
+
+<h2 align="left">🤝 Let's Connect</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/martin-wong303/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martinwong" height="30" width="40" /></a>
+</p>
+
+<h2 align="left">💻 Tech Stack</h2>
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,tailwind,react,ts,fastapi,firebase,aws,graphql,docker,kubernetes,redis,postgres,linux,git" />
+  </a>
+</div>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin-top: 30px;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mighty303&show_icons=true&theme=dark&hide_border=false" alt="martinwong" height="150px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mighty303&theme=dark&hide_border=false" alt="stats" height="150px"/>
+</div>
