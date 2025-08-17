@@ -1,7 +1,8 @@
 <!-- Make a masterhead -->
 <h1 align="center">Hi 👋, I'm Martin Wong</h1>
 <h4 align="center">Computer Science Student | Software Engineer | Mobile + Full Stack</h4>
-<img align="right" alt="CodingPfp" width="200" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mighty303&label=Profile%20views&color=4BC65E&style=for-the-badge" alt="martinwong" /> </p>
 
