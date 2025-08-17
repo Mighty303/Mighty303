@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, I'm Martin Wong</h1>
 <h4 align="center">Computer Science Student | Software Engineer | Mobile + Full Stack</h4>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
+  <img src="https://i.pinimg.com/originals/59/30/74/593074c302700c41ae6fdfeca3d51563.gif" width="300">
 </div>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mighty303&label=Profile%20views&color=4BC65E&style=for-the-badge" alt="martinwong" /> </p>
 
 - 🔍 I’m currently seeking 2026 summer internships
