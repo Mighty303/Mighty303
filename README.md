@@ -18,6 +18,10 @@
     <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,tailwind,react,ts,fastapi,firebase,aws,graphql,docker,kubernetes,redis,postgres,linux,git" />
   </a>
 </div>
+
+<br/>
+<br/>
+
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin-top: 30px;">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mighty303&show_icons=true&theme=dark&hide_border=false" alt="martinwong" height="150px"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mighty303&theme=dark&hide_border=false" alt="stats" height="150px"/>
