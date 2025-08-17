@@ -12,11 +12,6 @@
 
 - 📫 How to reach me **martinwong303@gmail.com**. Ask me about **Cloud/Devops, Software Architecture, anything code related!**
 
-<h2 align="left">🤝 Let's Connect</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/martin-wong303/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martinwong" height="30" width="40" /></a>
-</p>
-
 <h2 align="left">💻 Tech Stack</h2>
 <div align="left">
   <a href="https://skillicons.dev">
