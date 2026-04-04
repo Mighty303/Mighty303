@@ -6,7 +6,7 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mighty303&label=Profile%20views&color=4BC65E&style=for-the-badge" alt="martinwong" /> </p>
 
-- 🔍 I’m currently seeking 2026 summer internships
+- 🔍 I’m currently seeking 2027 summer internships
 
 - ⬇️ Check my pinned projects below ⬇️
 
