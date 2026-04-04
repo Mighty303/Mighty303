@@ -1,6 +1,6 @@
 <!-- Make a masterhead -->
 <h1 align="center">Hi 👋, I'm Martin Wong</h1>
-<h3 align="center">Computer Science Student | Software Engineer | Backend </h4>
+<h4 align="center">Computer Science Student | Software Engineer | Tutor </h4>
 <div align="center">
   <img src="https://i.pinimg.com/originals/59/30/74/593074c302700c41ae6fdfeca3d51563.gif" width="300">
 </div>
