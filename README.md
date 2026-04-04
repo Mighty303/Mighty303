@@ -11,18 +11,51 @@
 - ⬇️ Check my pinned projects below ⬇️
 
 - 📫 How to reach me **martinwong303@gmail.com**. Ask me about **Cloud/Devops, Software Architecture, anything code related!**
+## 💻 Tech Stack
 
-<h2 align="left">💻 Tech Stack</h2>
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,go,ts,react,fastapi,firebase,aws,gcp,graphql,docker,kubernetes,redis,postgres,linux" />
-  </a>
+**Languages**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,java,go,ts,html,css,js" />
+</a>
+
+**Frontend & Backend**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,fastapi,graphql" />
+</a>
+
+**Cloud & Infrastructure**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,firebase,terraform,linux" />
+</a>
+
+**Data & Storage**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" />
+</a>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mighty303&show_icons=true&theme=algolia&hide_border=true&rank_icon=github" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mighty303&theme=algolia&hide_border=true" height="160px"/>
 </div>
 
-<br/>
-<br/>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mighty303&layout=compact&theme=algolia&hide_border=true&langs_count=8" height="140px"/>
+</div>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin-top: 30px;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mighty303&show_icons=true&theme=dark&hide_border=false" alt="martinwong" height="150px"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mighty303&theme=dark&hide_border=false" alt="stats" height="150px"/>
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mighty303&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
+<div align="center">
+  <i>⬇️ Check out my pinned projects below ⬇️</i>
 </div>
