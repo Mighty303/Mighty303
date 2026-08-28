@@ -40,18 +40,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mighty303&show_icons=true&theme=algolia&hide_border=true&rank_icon=github" height="160px"/>
+  <img src="https://github-readme-stats-guibranco.vercel.app/api?username=mighty303&show_icons=true&theme=algolia&hide_border=true&rank_icon=github" height="160px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mighty303&theme=algolia&hide_border=true" height="160px"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mighty303&layout=compact&theme=algolia&hide_border=true&langs_count=8" height="140px"/>
+  <img src="https://github-readme-stats-guibranco.vercel.app/api/top-langs/?username=mighty303&layout=compact&theme=algolia&hide_border=true&langs_count=8" height="140px"/>
 </div>
 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mighty303&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://ghchart.rshah.org/4BC65E/mighty303" />
 </div>
 
 ---
